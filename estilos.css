@@ -1,0 +1,40 @@
+
+		body {
+		background-color:#CFF3FD;
+		}
+	
+		#header {
+  			background-position:  center center;
+ 			background-repeat: no-repeat;
+  			background-image: url("");
+  			background-color:#CFF3FD ;
+  			height: 28px;
+			}
+
+		
+	H1 {text-align: center; font-size: 40px; font-weight: bold; color: #852828; } 
+	H2 {text-align:  font-size: 20px; font-weight: bold; color:#0E3156; } 
+	H3 {text-align: font-size: 18px; font-weight: bold; color: 971212;} 
+
+	.table {
+  		width: 20%;
+ 		 border: 0.5px solid #000;
+		}
+	th, td {
+  		width: 6%;
+  		text-align: rigth;
+  		vertical-align: top;
+  		border: 0.3px solid #000;
+  		border-collapse:collapse ;
+  		padding: 0.3em;
+  		caption-side: bottom;
+		background-color:#DEF4F7;
+		}
+		
+		caption {
+ 		padding: 0.09em;
+  		color: #fff;
+  		background:#8adde3;
+		
+		}
+
